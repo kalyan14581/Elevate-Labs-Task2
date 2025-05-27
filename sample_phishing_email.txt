@@ -1,0 +1,25 @@
+Subject: Immediate Action Required: Unusual Activity Detected on Your Account
+
+From: Microsoft Security Team <support@microsoft-security-alert.com>
+
+Date: May 27, 2025
+
+To: youremail@example.com
+
+Dear User,
+
+We have detected unusual login activity on your Microsoft account. For your protection, we have temporarily locked your account.
+
+Location: Moscow, Russia
+IP Address: 172.217.22.14
+Time: 3:42 AM GMT, May 27, 2025
+
+If this was not you, please verify your identity to avoid permanent suspension of your account.
+
+👉 Click here to verify your account
+
+Failure to take action within 24 hours will result in the termination of your account.
+
+Thank you,
+Microsoft Account Security Team
+support@microsoft-security-alert.com
